@@ -1,0 +1,39 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.QuoteBox{
+  background-color: white;
+  width: 40%;
+  height: auto;
+  padding: 30px;
+}
+.QuoteLeft{
+  display: flex;
+
+}
+.QuoteRigth{
+  text-align: end;
+}
+
+.coma{
+  font-size: 45px;
+  margin-right: 20px;
+}
+
+button{
+  border: none;
+  border-radius: 50%;
+  width: 50px;
+  aspect-ratio: 1;
+  cursor: pointer;
+  
+
+}
+.arrow{
+  font-size: 27px;
+  color: white;
+}
